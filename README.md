@@ -30,3 +30,9 @@
 - PAY_AMT5: Amount of previous payment in May 2005 (NT dollar)
 - PAY_AMT6: Amount of previous payment in April 2005 (NT dollar)
 - default.payment.next.month: Default payment (1=yes, 0=no)
+
+## Observations
+**Using the three classifier models, the accuracy we obtained is as follows:**
+- Logistic Regression: 0.8054
+- Random Forest Classifier: 0.8173
+- XGBoost Classifier: 0.8196
