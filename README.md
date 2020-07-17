@@ -1,7 +1,8 @@
 # Default-of-Credit-Card-Clients-Dataset-Classification-Evaluation
 
-Dataset Information
-This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
+##Dataset Information
+**This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.**
+
 Content
 There are 25 variables:
 ID: ID of each client
